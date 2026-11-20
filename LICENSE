@@ -1,0 +1,9 @@
+This firmware is licensed under the GNU General Public License v3.0
+(FabGL by Fabrizio Di Vittorio is GPLv3; the host must follow).
+
+The O2EM core (cpu/vdc/vmachine/…) is the work of Daniel Boris,
+André de la Rocha and Arlindo M. de Oliveira, distributed under the
+Clarified Artistic License — see COPYING.o2em.
+
+You need a dump of the Odyssey 2 / Videopac BIOS (o2rom.bin, 1024 bytes)
+and cartridge images you legally own. They are not included.

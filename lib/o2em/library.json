@@ -1,0 +1,9 @@
+{
+  "name": "o2em",
+  "version": "1.18.0",
+  "description": "O2EM Odyssey 2 / Videopac core (Daniel Boris) for ESP32",
+  "build": {
+    "includeDir": ".",
+    "flags": ["-Wno-unused-parameter", "-Wno-unused-variable"]
+  }
+}

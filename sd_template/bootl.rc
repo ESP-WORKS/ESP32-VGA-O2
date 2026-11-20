@@ -1,0 +1,5 @@
+# Optional. Copy to the ROOT of the FAT32 SD card as bootl.rc
+# Compatible with https://github.com/fg1998/ESP32_Bootloader
+kbddat=32
+kbdclk=33
+# magicb=36

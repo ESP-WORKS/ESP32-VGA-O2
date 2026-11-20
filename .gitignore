@@ -1,0 +1,13 @@
+.pio/
+agent-tools/
+.vscode/
+.idea/
+*.elf
+*.map
+*.bin
+!sd_template/**
+*~
+.DS_Store
+*.pyc
+__pycache__/
+agent-tools/
